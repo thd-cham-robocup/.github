@@ -44,7 +44,7 @@ We are focusing in the **RoboCup@Work** league — an international robotics com
 
 Whether you are a student, mentor, or industry partner, we welcome you to join our journey:
 
-- Check our [docs repository](https://github.com/THD-Cham-Robotics/docs) for team rules, onboarding guides, and contribution information.
+- Check our [docs repository](https://github.com/thd-cham-robocup/docs) for team rules, onboarding guides, and contribution information.
 - Explore our project repositories and open issues to start contributing.
 - Connect with us for collaboration, mentoring, or sponsorship opportunities.
 
